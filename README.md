@@ -19,6 +19,9 @@ $ pip install -r requirements.txt
 $ python manage.py runserver
 
 Navigate to Home page http://localhost:8000
+
+
+
 ![parser](https://user-images.githubusercontent.com/73902199/122672927-81c8c080-d1e7-11eb-9e93-53c3ab379131.jpg)
 
 
