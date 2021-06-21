@@ -11,11 +11,11 @@ To start and run the local development server,
 
 1.Install the dependencies:
 
-$ pip install -r requirements.txt
+    $ pip install -r requirements.txt
 
 2. Run the development server:
 
-$ python manage.py runserver
+    $ python manage.py runserver
 
 3.Navigate to Home page http://localhost:8000
 
