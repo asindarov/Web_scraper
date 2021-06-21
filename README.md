@@ -9,8 +9,8 @@ After cloning this project(https://docs.github.com/en/github/creating-cloning-an
 
 To start and run the local development server,
 
-1.Change your directory:
-     cd Web_scraper/web
+1.Change your directory:      
+     $ cd Web_scraper/web
 
 2.Install the dependencies:
 
