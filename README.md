@@ -9,12 +9,13 @@ After cloning this project(https://docs.github.com/en/github/creating-cloning-an
 
 To start and run the local development server,
 
- 1.Install the dependencies:
+1.Install the dependencies:
 
- $ pip install -r requirements.txt
+$ pip install -r requirements.txt
 
- 2. Run the development server:
- $ python manage.py runserver
+2. Run the development server:
+
+$ python manage.py runserver
 
 
 ![parser](https://user-images.githubusercontent.com/73902199/122672927-81c8c080-d1e7-11eb-9e93-53c3ab379131.jpg)
