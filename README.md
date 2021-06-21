@@ -11,7 +11,7 @@ To start and run the local development server,
 
 1.Change your directory: 
 
-          $ cd Web_scraper/web
+    $ cd Web_scraper/web
 
 2.Install the dependencies:
 
@@ -19,7 +19,7 @@ To start and run the local development server,
 
 3. Run the development server:
 
-        $ python manage.py runserver
+       $ python manage.py runserver
 
 4.Navigate to Home page http://localhost:8000
 
