@@ -13,7 +13,6 @@ To start and run the local development server,
 
 $ pip install -r requirements.txt
 
-
 2. Run the development server:
 
 $ python manage.py runserver
